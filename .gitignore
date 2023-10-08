@@ -16,3 +16,4 @@ checkpoints
 src/audio/*.spec.pt
 output
 .out
+.pdf
